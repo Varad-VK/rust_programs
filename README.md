@@ -21,9 +21,9 @@ Repo cosist of:
    git clone https://github.com/<your-username>/<repo-name>.git
 
 2. Go inside directory of program:
-  ```bash
-  cd directory_name
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
 
 3. Run:
-  ```bash
-  cargo run
+   ```bash
+   cargo run
