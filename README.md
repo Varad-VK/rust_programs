@@ -12,6 +12,9 @@ Repo cosist of:
 
 - **string_operations**  
   A bunch of string manipulation utilities and experiments.
+
+- **Sorting Algorithms**  
+  Bubble sort, Selection Sort.
   
 ---
 
